@@ -2302,7 +2302,7 @@ input, select, textarea {
 
 /* One */
 
-	#one {
+	#about {
 		background: url("images/overlay.png"), url("../../images/one.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
